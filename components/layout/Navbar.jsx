@@ -31,9 +31,9 @@ const Navbar = () => {
                 <div className="flex items-center justify-between h-16">
                     {/* Logo */}
                     <a href="#home" className="flex items-center gap-2 group">
-                        <Logo className="w-8 h-8" />
-                        <span className="text-[22px] font-extrabold text-primary tracking-tight">
-                            Cogniq AI
+                        <Logo className="w-9 h-9" />
+                        <span className="text-lg font-bold text-text-main">
+                            Cogniq <span className="text-primary">AI</span>
                         </span>
                     </a>
 

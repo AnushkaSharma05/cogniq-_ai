@@ -14,7 +14,7 @@ const AboutSection = () => {
                         {/* Image */}
                         <div className="flex-1 rounded-2xl overflow-hidden shadow-xl">
                             <img
-                                src="https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80"
+                                src="https://cogniqai.ai/HomePage/HomeAboutUsRobotHandImage.png"
                                 alt="AI Robot Hand"
                                 className="w-full h-full object-cover"
                                 style={{ minHeight: '320px', maxHeight: '420px' }}
